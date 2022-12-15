@@ -1,0 +1,81 @@
+.fa {
+    font-size: 30px;
+    margin-right: 20px;
+}
+
+.fa-vk {
+    color: blueviolet;
+}
+
+.fa-whatsapp {
+    color: rgb(4, 121, 22);
+}
+
+.fa-vk:hover {
+    color: rgb(226, 43, 153);
+}
+
+.fa-whatsapp:hover {
+    color: rgb(215, 248, 4);
+}
+
+a {
+    text-decoration: none;
+}
+
+.menu {
+    color: cornflowerblue;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.topic {
+    color: #222222;
+    font-size: 28px;
+    line-height: 36px;
+    font-weight: bold;
+}
+
+.addition {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 30px;
+    color: #7D7987;
+}
+
+.heading {
+    color: coral;
+    font-size: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 80px;
+}
+
+.picture {
+    border-radius: 10px;
+    width: 300px;
+
+}
+
+.enter {
+    width: 200px;
+    height: 30px;
+    outline: none;
+    border: 1px solid #ccc;
+    border-radius: 15px;
+    font-size: 14px;
+    line-height: 30px;
+}
+
+.pin {
+    width: 100px;
+    height: 30px;
+    font-size: 14px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+}
+
+body {
+    font-family: sans-serif;
+}
